@@ -37,8 +37,8 @@ CapsLock & s::switchDesktopToRight()
 CapsLock & a::switchDesktopToLeft()
 CapsLock & tab::switchDesktopToLastOpened()
 
-CapsLock & c::createVirtualDesktop()
-CapsLock & d::deleteVirtualDesktop()
+; CapsLock & c::createVirtualDesktop()
+; CapsLock & d::deleteVirtualDesktop()
 
 CapsLock & q::MoveCurrentWindowToDesktop(1)
 CapsLock & w::MoveCurrentWindowToDesktop(2)
